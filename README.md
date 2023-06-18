@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muntasir</h1>
 <h3 align="center">A passionate programmer || developer || ML enthusiast</h3>
 
-- 🔭 I’m currently working on **a ML recommender system** 
-- 🌱 I’m currently learning **tensorflow, django** 
+- 🔭 I’m currently working on **a human action recognition system** 
+- 🌱 I’m currently learning **tensorflow, django rest framework** 
 - 📫 How to reach me **muntasirrahman437@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -86,14 +86,6 @@
     height="40"
   />
 </a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
-    alt="rust"
-    width="40"
-    height="40"
-  />
-</a>
 
 
 
@@ -167,14 +159,7 @@ rel="noreferrer"
   />
 </a>
 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-    alt="firebase"
-    width="40"
-    height="40"
-  />
-</a>
+
 
 
 
