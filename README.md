@@ -1,8 +1,13 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized-large.gif"  />
+  <img height="150" src="https://tenor.com/PklS.gif"  />
 </div>
 
+
+<h1 align="center">Hi 👋, I'm Muntasir</h1>
+<h2 align="center">I’m a programmer || developer || ML enthusiast</h2>
+
 ###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muntasir-rahman-mr/" target="_blank">
@@ -24,19 +29,13 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Muntasir</h1>
-
-###
-
-<img src="https://raw.githubusercontent.com/MuntasirShoumik/MuntasirShoumik/output/snake.svg" />
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">- 🔭 I’m working as a software engineer intern @ CloudlyIO<br>- 📚 I'm currently learning TensorFlow, Ruby on Rails<br>- 📫 How to reach me muntasirrahman437@gmail.com</p>
+<p align="left">- 🔭 I’m working as a software engineer intern at <b>CloudlyIO</b><br>- 📚 I'm currently learning <b>TensorFlow, Ruby on Rails</b><br>- 📫 How to reach me <b>muntasirrahman437@gmail.com</b></p>
 
 ###
 
@@ -72,6 +71,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+</div>
+
+###
 </div>
 
 ###
