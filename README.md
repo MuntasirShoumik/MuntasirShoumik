@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a software engineer intern at <b>CloudlyIO</b><br>- 📚 I'm currently learning <b>TensorFlow, Ruby on Rails</b><br>- 📫 How to reach me <b>muntasirrahman437@gmail.com</b></p>
+<p align="left">- 🔭 I’m working as a software engineer at <b>CloudlyIO</b><br>- 📚 I'm currently learning <b>NLP</b><br>- 📫 How to reach me <b>muntasirrahman437@gmail.com</b></p>
 
 ###
 
@@ -54,7 +54,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50">
+  
 </div>
 
 ###
@@ -68,11 +69,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
 </div>
 
 ###
